@@ -8,6 +8,6 @@
 int main(void)
 {
    printf("Hello World! Welcome to my reposity.");
-   
+   printf("Thanks!");   
    return 0;
 }
